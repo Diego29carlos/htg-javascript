@@ -1,0 +1,5 @@
+Dafne (la patrona):
+
+La solucion que me ofrecio fue una apps para verificar las luces del barrio al igual
+que las camaras y verificar si estan en funcionamiento o no, en caso de que no este
+enviar una notificacion o queja desde la misma apps para informar a la empresa o municipalidad.
