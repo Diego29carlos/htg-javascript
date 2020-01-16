@@ -9,7 +9,7 @@
 body {
   align-items: center;
   background-color: var(--bg-color);
-  color: green;
+  color: black;
   display: flex;
   flex-direction: column;
   font-family: Arial, Helvetica, sans-serif;
@@ -42,9 +42,28 @@ main {
   transition: transform 0.2s ease-in-out;
 }
 
+ .commentjeny {
+
+  color: forestgreen;
+
+ }
+
+ .cajahr {
+   
+   border-color: blue;
+
+ }
+
+.mayor {
+  opacity: 0.1;
+}
+.commetlargo {
+  opacity: 0;
+}
+
 .comment:hover {
   transform: translateX(5px);
-  color: red;
+
 }
 .favorito {
   color: rgb(90, 20, 220);
